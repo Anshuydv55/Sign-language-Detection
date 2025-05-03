@@ -30,6 +30,4 @@ Sample Output 2:
  ![ Sample Output 2](https://github.com/Anshuydv55/Sign-language-Detection/blob/main/Screenshot%20(4).png
 )
 
-Sample Output 3:
- ![ Sample Output 2](https://github.com/Anshuydv55/Age-Gender-Detector/blob/main/Output_sample_3.jpeg
-)
+
